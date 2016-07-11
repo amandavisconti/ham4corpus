@@ -4,7 +4,7 @@ The #ham4corpus repo currently contains files with various types of information 
 All lyrics are by Lin-Manuel Miranda. 
 
 # Lyrics, including character names before their parts
-Title: All_Hamilton_Lyrics_Speakers.md
+*Title*: All_Hamilton_Lyrics_Speakers.md
 
 What: One file containing all lyrics sung in the Original Broadway Cast recording of Hamilton: An American Musical, with the name of the character singing each part appearing on the line above the beginning of their part.
 
