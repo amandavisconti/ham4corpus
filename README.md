@@ -18,10 +18,10 @@ Using [Stéfan Sinclair](https://github.com/sgsinclair) and [Geoffrey Rockwell](
   * Single word occurrence via microsearch (map of where a given word appears throughout the lyrics):
 
 ![Screenshot of Voyant microsearch for occurences of the word "wait" throughout the Hamilton lyrics](https://github.com/amandavisconti/ham4corpus/blob/master/wait_occurrences.png)
-Red = the word "wait" vs the rest of the lyrics
+Red = the word "wait" vs the rest of the lyrics (the second-to-last red block is Burr's final "Wait!", last one is Eliza's "I can't wait to see you again")
 
 ![Screenshot of Voyant microsearch for occurences of the word "Hamilton" throughout the Hamilton lyrics](https://github.com/amandavisconti/ham4corpus/blob/master/hamilton_occurrences.png)
-Red = the word "Hamilton" vs the rest of the lyrics
+Red = the word "Hamilton" vs the rest of the lyrics (was surprised that the word "Hamilton" isn't used again after Burr's last "The world was wide enough for both Hamilton and me")
 
 # The files
 ## Lyrics, including character names before their parts
