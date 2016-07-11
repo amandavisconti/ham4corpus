@@ -13,8 +13,9 @@ Using [Stéfan Sinclair](https://github.com/sgsinclair) and [Geoffrey Rockwell](
 
 * [tinyurl.com/just-hamilton-lyrics](https://tinyurl.com/just-hamilton-lyrics) to explore the lyrics without the speaker names:
   * 21,351 total words and 2,939 unique word forms
-  * Interesting frequent words: da (103 times, thanks George III), time (87), hamilton (79), wait (79), room (71), burr (69), sir (56), satisfied (37), story (35), helpless (32).
+  * Interesting frequent words: da (103 times, thanks George III), time (87), hamilton appears the same number of times wait does (79), room (71), burr (69), sir (56), satisfied (37), story (35), helpless (32).
   * Unsurprisingly, "sir" is the most frequent one-away collocate of "burr" (9 times).
+
 
 
 # The files
