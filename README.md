@@ -17,7 +17,11 @@ Using [Stéfan Sinclair](https://github.com/sgsinclair) and [Geoffrey Rockwell](
   * Unsurprisingly, "sir" is the most frequent one-away collocate of "burr" (9 times).
   * Single word occurrence via microsearch for the words...
 
+![Screenshot of Voyant microsearch for occurences of the word "wait" throughout the Hamilton lyrics](https://github.com/amandavisconti/ham4corpus/blob/master/wait_occurrences.png)
+"Wait"
 
+![Screenshot of Voyant microsearch for occurences of the word "Hamilton" throughout the Hamilton lyrics](https://github.com/amandavisconti/ham4corpus/blob/master/hamilton_occurrences.png)
+"Hamilton"
 
 # The files
 ## Lyrics, including character names before their parts
