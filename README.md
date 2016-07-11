@@ -1,1 +1,17 @@
 # ham4corpus
+All lyrics are by Lin-Manuel Miranda. This repo currently contains files with various types of information about the Original Broadway Cast recording of Hamilton: An American Musical. Suggested uses: Twitter bots, text visualization.
+
+# Lyrics, including character names before their parts
+Title: All_Hamilton_Lyrics_Speakers.md
+What: One file containing all lyrics sung in the Original Broadway Cast recording of Hamilton: An American Musical, with the name of the character singing each part appearing on the line above the beginning of their part.
+Pulled from: [http://genius.com/albums/Lin-manuel-miranda/Hamilton-original-broadway-cast-recording]
+
+# Lyrics, not including character names before their parts
+Title: All_Hamilton_Lyrics_No_Speakers.md
+What: One file containing all lyrics sung in the Original Broadway Cast recording of Hamilton: An American Musical.
+Pulled from: [http://genius.com/albums/Lin-manuel-miranda/Hamilton-original-broadway-cast-recording]
+
+#Original Broadway Cast Actors & Character Names
+Title: OBC_Cast_Actors_Character.json
+What: Actors and the named characters played by them in the Original Broadway Cast recording of Hamilton: An American Musical. Actors who played multiple characters are listed multiple times.
+Pulled from: [https://en.wikipedia.org/wiki/Hamilton_(musical)#Principal_roles_and_major_casts]
