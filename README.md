@@ -1,5 +1,7 @@
 # ham4corpus
-The #ham4corpus repo currently contains files with various types of information about the Original Broadway Cast recording of Hamilton: An American Musical. *Suggested uses:* Twitter bots, text visualization. 
+The #ham4corpus repo currently contains files with various types of information about the Original Broadway Cast recording of Hamilton: An American Musical (i.e. all words currently in the show, minus the one scene not on the OBC recording).
+
+*Suggested uses:* Twitter bots, text visualization. 
 
 All lyrics are by Lin-Manuel Miranda. 
 
