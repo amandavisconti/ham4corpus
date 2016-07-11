@@ -7,11 +7,8 @@ All lyrics are by Lin-Manuel Miranda and copied from the LMM-annotated Genius.co
 
 #For example:
 
-Using [Stéfan Sinclair](https://github.com/sgsinclair) and [Geoffrey Rockwell](https://github.com/GeoffreyRockwell)'s [Voyant Tools](http://voyant-tools.org) to explore the text of the musical (not sure whether these links will stick around, so I'll include some screenshots below):
+Using [Stéfan Sinclair](https://github.com/sgsinclair) and [Geoffrey Rockwell](https://github.com/GeoffreyRockwell)'s [Voyant Tools](http://voyant-tools.org) to explore the text of the musical, I discovered the following about the Hamilton lyrics en masse (in order as one text block, with no names of speakers/singers interspersed):
 
-* [tinyurl.com/hamilton-lyrics-names](https://tinyurl.com/hamilton-lyrics-names) to explore the lyrics including the speaker names
-
-* [tinyurl.com/just-hamilton-lyrics](https://tinyurl.com/just-hamilton-lyrics) to explore the lyrics without the speaker names:
   * 21,351 total words and 2,939 unique word forms
   * Interesting frequent words: da (103 times, thanks George III), time (87), hamilton appears the same number of times wait does (79), room (71), burr (69), sir (56), satisfied (37), story (35), helpless (32).
   * Unsurprisingly, "sir" is the most frequent one-away collocate of "burr" (9 times).
@@ -22,6 +19,11 @@ Red = the word "wait" vs the rest of the lyrics (the second-to-last red block is
 
 ![Screenshot of Voyant microsearch for occurences of the word "Hamilton" throughout the Hamilton lyrics](https://github.com/amandavisconti/ham4corpus/blob/master/hamilton_occurrences.png)
 Red = the word "Hamilton" vs the rest of the lyrics (was surprised that the word "Hamilton" isn't used again after Burr's last "The world was wide enough for both Hamilton and me")
+
+Explore the Voyant dashboards for both versions of the lyrics yourself at:
+* [tinyurl.com/hamilton-lyrics-names](https://tinyurl.com/hamilton-lyrics-names) to explore the lyrics including the speaker names
+
+* [tinyurl.com/just-hamilton-lyrics](https://tinyurl.com/just-hamilton-lyrics) to explore the lyrics without the speaker names:
 
 # The files
 ## Lyrics, including character names before their parts
