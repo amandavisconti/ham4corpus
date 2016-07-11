@@ -5,6 +5,20 @@ The #ham4corpus repo currently contains files with various types of information 
 
 All lyrics are by Lin-Manuel Miranda and copied from the LMM-annotated Genius.com hosting of the lyrics. Cast/character information is from Wikipedia. Links to all sources listed below.
 
+#For example:
+
+Using [Stéfan Sinclair](https://github.com/sgsinclair) and [Geoffrey Rockwell](https://github.com/GeoffreyRockwell)'s [Voyant Tools](http://voyant-tools.org) to explore the text of the musical (not sure whether these links will stick around, so I'll include some screenshots below):
+
+* [tinyurl.com/hamilton-lyrics-names](https://tinyurl.com/hamilton-lyrics-names) to explore the lyrics including the speaker names
+
+* [tinyurl.com/just-hamilton-lyrics](https://tinyurl.com/just-hamilton-lyrics) to explore the lyrics without the speaker names:
+  * 21,351 total words and 2,939 unique word forms
+
+<!--	Exported from Voyant Tools: http://voyant-tools.org/.
+Please note that this is an early version and the API may change.
+Feel free to change the height and width values below: -->
+<iframe style='width: 100%; height: 800px' src='http://voyant-tools.org:80/?view=CorpusTerms&corpus=39386097f891745fe9a32fa52bb78c70'></iframe>
+
 # The files
 ## Lyrics, including character names before their parts
 **Title:** All_Hamilton_Lyrics_Speakers
