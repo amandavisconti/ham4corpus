@@ -15,6 +15,7 @@ Using [Stéfan Sinclair](https://github.com/sgsinclair) and [Geoffrey Rockwell](
   * 21,351 total words and 2,939 unique word forms
   * Interesting frequent words: da (103 times, thanks George III), time (87), hamilton appears the same number of times wait does (79), room (71), burr (69), sir (56), satisfied (37), story (35), helpless (32).
   * Unsurprisingly, "sir" is the most frequent one-away collocate of "burr" (9 times).
+  * Single word occurrence via microsearch for the words...
 
 
 
