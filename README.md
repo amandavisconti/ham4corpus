@@ -8,14 +8,14 @@ All lyrics are by Lin-Manuel Miranda.
 # Lyrics, including character names before their parts
 **Title:** All_Hamilton_Lyrics_Speakers.md
 
-**What:** One file containing all lyrics sung in the Original Broadway Cast recording of Hamilton: An American Musical, with the name of the character singing each part appearing on the line above the beginning of their part.
+**What:** One file containing all lyrics sung in the Original Broadway Cast recording of Hamilton: An American Musical, with the name of the character singing each part appearing on the line above the beginning of their part. Copied and pasted from the lyrics on Genius.com; the placement of simultaneous lyrics is broken up.
 
 **Pulled from:** http://genius.com/albums/Lin-manuel-miranda/Hamilton-original-broadway-cast-recording
 
 # Lyrics, not including character names before their parts
 **Title:** All_Hamilton_Lyrics_No_Speakers.md
 
-**What:** One file containing all lyrics sung in the Original Broadway Cast recording of Hamilton: An American Musical.
+**What:** One file containing all lyrics sung in the Original Broadway Cast recording of Hamilton: An American Musical. Copied and pasted from the lyrics on Genius.com; the placement of simultaneous lyrics is broken up.
 
 **Pulled from:** http://genius.com/albums/Lin-manuel-miranda/Hamilton-original-broadway-cast-recording
 
