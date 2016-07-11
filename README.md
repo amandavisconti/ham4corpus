@@ -15,13 +15,13 @@ Using [Stéfan Sinclair](https://github.com/sgsinclair) and [Geoffrey Rockwell](
   * 21,351 total words and 2,939 unique word forms
   * Interesting frequent words: da (103 times, thanks George III), time (87), hamilton appears the same number of times wait does (79), room (71), burr (69), sir (56), satisfied (37), story (35), helpless (32).
   * Unsurprisingly, "sir" is the most frequent one-away collocate of "burr" (9 times).
-  * Single word occurrence via microsearch for the words...
+  * Single word occurrence via microsearch (map of where a given word appears throughout the lyrics):
 
 ![Screenshot of Voyant microsearch for occurences of the word "wait" throughout the Hamilton lyrics](https://github.com/amandavisconti/ham4corpus/blob/master/wait_occurrences.png)
-"Wait"
+Red = the word "wait" vs the rest of the lyrics
 
 ![Screenshot of Voyant microsearch for occurences of the word "Hamilton" throughout the Hamilton lyrics](https://github.com/amandavisconti/ham4corpus/blob/master/hamilton_occurrences.png)
-"Hamilton"
+Red = the word "Hamilton" vs the rest of the lyrics
 
 # The files
 ## Lyrics, including character names before their parts
