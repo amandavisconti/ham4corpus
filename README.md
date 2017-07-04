@@ -5,7 +5,7 @@ The #ham4corpus repo currently contains files with various types of information 
 
 All lyrics are by Lin-Manuel Miranda and copied from the LMM-annotated Genius.com hosting of the lyrics. Cast/character information is from Wikipedia. Links to all sources listed below.
 
-#For example:
+# For example:
 
 Using [Stéfan Sinclair](https://github.com/sgsinclair) and [Geoffrey Rockwell](https://github.com/GeoffreyRockwell)'s [Voyant Tools](http://voyant-tools.org) to explore the text of the musical, I discovered the following about the Hamilton lyrics en masse (in order as one text block, with no names of speakers/singers interspersed):
 
